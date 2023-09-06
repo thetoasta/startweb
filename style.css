@@ -60,7 +60,7 @@ button {
 }
 
 button:hover {
-    background-color: #2ecc71;
+    background-color: rgb(58, 47, 252);
 }
 
 .top-header {
