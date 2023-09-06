@@ -1,5 +1,7 @@
 # Start Discord Website
 This is the official website, which is hosted on vercel. [Website](https://startweb.vercel.app)
+
+Note that you have switched to the dev branch, which does do changes. This is not free of bugs like main, and this may have issues. But the good side is you will get early features! [Dev Build](https://earlystartweb.vercel.app)
 ## Point of bot
 The bot is for people to start of a server with ease. (get it? start?)
 ## Developer(s)
